@@ -92,7 +92,7 @@ A script allowing users to:
 1.Clone the repository:
 ```bash
 git clone https://github.com/ShraddhaAlhat/predicting-stock-market-movement-using-sentiment-analysis.git
-cd predicts-stock-movements
+cd predicting-stock-market-movement-using-sentiment-analysis
 ```
 
 2.Install dependencies:
