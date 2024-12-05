@@ -1,0 +1,7 @@
+pandas
+numpy
+praw
+nltk
+vaderSentiment
+yfinance
+scikit-learn
