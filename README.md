@@ -91,7 +91,7 @@ A script allowing users to:
 
 1.Clone the repository:
 ```bash
-git clone https://github.com/ShraddhaAlhat/Predicts-Stock-Movements-.git
+git clone https://github.com/ShraddhaAlhat/predicting-stock-market-movement-using-sentiment-analysis.git
 cd predicts-stock-movements
 ```
 
